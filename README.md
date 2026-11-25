@@ -122,7 +122,7 @@ I enjoy exploring new technologies, developing applications, solving real-world 
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: [Saravana Kumar](https://www.linkedin.com/in/saravana-kumar-s-a82543328/)
-- 🐙 GitHub: [My GitHub Profile](https://github.com/YOUR-GITHUB-USERNAME)
+- 🐙 GitHub: [My GitHub Profile](https://github.com/saravana2501)
 
 ---
 
