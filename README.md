@@ -1,5 +1,5 @@
 
-<!-- ========== PROFILE BANNER ========== -->
+<!-- PROFILE BANNER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Saravana%20Kumar%20S&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Developer%20%7C%20IT%20Student&descAlignY=55&descSize=16" width="100%" />
@@ -38,19 +38,19 @@ I enjoy exploring new technologies, developing applications, solving problems an
 
 ### Programming Languages
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,c" />
 </p>
 
 ### Web Development
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### Tools & Technologies
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio,firebase,mysql,git,github,vscode" />
 </p>
 
@@ -154,19 +154,38 @@ I enjoy exploring new technologies, developing applications, solving problems an
 
 ---
 
+## 📅 Profile Update
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Last%20Updated-November%2025%2C%202026-blue?style=for-the-badge" />
+</p>
+
+---
+
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/saravana-kumar-s-a82543328/" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/saravana-kumar-s-a82543328/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank">
+  <a href="https://github.com/YOUR-GITHUB-USERNAME">
     <img src="https://skillicons.dev/icons?i=github" width="45" />
   </a>
 </p>
 
-- 💼 LinkedIn: [Saravana Kumar](https://www.linkedin.com/in/saravana-kumar-s-a82543328/)
-- 🐙 GitHub: [My GitHub Profile](https://github.com/YOUR-GITHUB-USERNAME)
+<p align="center">
+  💼 <b>LinkedIn:</b>
+  <a href="https://www.linkedin.com/in/saravana-kumar-s-a82543328/">
+    Saravana Kumar
+  </a>
+</p>
+
+<p align="center">
+  🐙 <b>GitHub:</b>
+  <a href="https://github.com/YOUR-GITHUB-USERNAME">
+    My GitHub Profile
+  </a>
+</p>
 
 ---
 
